@@ -1,4 +1,4 @@
-# 📊 Financial Data Analysis Dashboard
+# 💰 Financial Data Analysis Dashboard
 
 This project is an end-to-end analysis and visualization of financial data using Python. The goal is to simulate a mini accounting system by integrating various dimension tables with a general ledger (fact table), perform financial calculations like income statements and balance sheets, derive meaningful KPIs, and present the insights through well-designed visualizations.
 
