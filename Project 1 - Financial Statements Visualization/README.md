@@ -85,3 +85,6 @@ The final report layout was organized using `matplotlib.gridspec` and saved as `
 ---
 
 ## 👨‍💻 Author
+**Chanush KR**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chanush-kr)  
+🌐 [Portfolio Website](https://sites.google.com/view/chanushkr/home)  
