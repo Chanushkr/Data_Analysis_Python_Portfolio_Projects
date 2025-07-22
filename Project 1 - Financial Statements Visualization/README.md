@@ -77,9 +77,9 @@ The final report layout was organized using `matplotlib.gridspec` and saved as `
 ## ✅ Output Files
 
 |File Name			|Description					|
-|-------------------------------|-----------------------------------------------|
-|`financial_dashboard.png`	|Final combined visual dashboard		|
-|`financial_analysis.ipynb`	|Complete analysis and visualization code	|
+|-----------------------------------------------|-----------------------------------------------|
+|`financial_dashboard.png`	                    |Final combined visual dashboard	            	|
+|`Income_Statement_and_Revenue_Analysis.ipynb`	|Complete analysis and visualization code	      |
 
 
 ---
